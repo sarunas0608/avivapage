@@ -1,0 +1,127 @@
+body{
+margin:0;
+}
+
+.logo{
+  width:150px;
+}
+
+.first-container{
+  position: relative;
+  height: 300px;
+  background-color: black;
+  margin:0;
+}
+
+.logo{
+  display:block;
+  margin:auto;
+}
+
+.inside-first-container{
+  position: absolute;
+  height: 25px;
+  background-color: #FBCB0A;
+  width: 75%;
+  bottom: 0;
+  left:12.5%;
+  text-align: right;
+  padding-top: 15px;
+}
+a{
+  margin:20px;
+  text-decoration: none;
+}
+
+h1{
+  color: white;
+}
+
+.aviva{
+  position: absolute;
+  bottom: 40px;
+  left:12.5%;
+}
+h2{
+  margin-left: 12.5%;
+}
+.second-container{
+  display: block;
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.button{
+  margin-left: 45%;
+  background-color: red;
+  color: white;
+  border-style: hidden;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.table-container{
+  position: relative;
+  background-color: #00092C;
+  height: 300px;
+  padding-top: 30px;
+}
+
+table{
+  color: white;
+  position: absolute;
+  left:12.5%;
+  border-collapse: collapse;
+  width:75%;
+}
+
+td{
+  border: 1px solid red;
+  text-align: center;
+  height: 30px;
+}
+
+.right-column{
+  text-align: right;
+}
+
+.bottom-row{
+  border-right:none;
+}
+.bottom-roww{
+  border-left:none;
+  text-align: right;
+}
+
+th{
+  border: 1px solid red;
+  text-align: center;
+  height: 10px;
+}
+
+.table-h2{
+  color: white;
+}
+ul{
+  margin-left: 13%;
+}
+
+.ahref{
+  margin-left:48%;
+}
+
+.copyright{
+  text-align: center;
+}
+
+.last-container{
+  color:white;
+  background-color: #FBCB0A;
+  height: 50px;
+  padding-top:8px;
+  text-align: center;
+  margin-top: 10px;
+}
